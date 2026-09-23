@@ -281,19 +281,6 @@ Input Features
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- 📧 Email: yourname@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📊 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
